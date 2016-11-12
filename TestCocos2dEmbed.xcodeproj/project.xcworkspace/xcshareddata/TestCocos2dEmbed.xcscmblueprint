@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "929A8A3A9C245FCD91B63996894D8992E4B9E53A" : 9223372036854775807,
+    "DBE07792E917556398B2A921F26C5EDA5610A3F3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3CF36E20-DA69-44BC-843F-793627B573F4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "929A8A3A9C245FCD91B63996894D8992E4B9E53A" : "cocos2d_embed\/",
+    "DBE07792E917556398B2A921F26C5EDA5610A3F3" : "cocos2d-x-lite\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestCocos2dEmbed",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestCocos2dEmbed.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zzm-github\/cocos2d_embed.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "929A8A3A9C245FCD91B63996894D8992E4B9E53A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zzm-github\/cocos2d-x-lite.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DBE07792E917556398B2A921F26C5EDA5610A3F3"
+    }
+  ]
+}
